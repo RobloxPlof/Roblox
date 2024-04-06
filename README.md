@@ -8,7 +8,8 @@
 
 ### Showcase
 
- 
+ ![image](https://github.com/RobloxPlof/Roblox/assets/166235009/946e568d-d796-46fa-9308-22a6b4727158)
+
 ### How It Works:
 Download and Install: 
 Get the Setup from this repository and follow the installation instructions. 
